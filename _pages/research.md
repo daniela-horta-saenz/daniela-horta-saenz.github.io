@@ -16,22 +16,24 @@ Work in progress
 
 <br>
 
-**"Collateral damage: The impact of forced eradication of illicit crops on human capital"**
+**"Supply-Side Drug Enforcement and Economic Development"**
 
-<i><font size="-0.5"> with Anderson Tami-Patiño.</font></i> [<font size="-0.5"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4694457">WP</a></font>]
+<i><font size="-0.5"> with Anderson Tami-Patiño.</font></i> [<font size="-0.5"><a href="https://www.dropbox.com/scl/fi/ld3j6tuurbzmu930z66ib/Coca_Education_HT_2026.pdf?rlkey=99kl28s8h5pk6pfrodfskp5aw&st=013bxb2j&dl=0">WP</a></font>]
 
-<p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> The role of eradication policies in decreasing drug trade, insecurity, and ultimately fostering development remains largely debated. This paper examines the unintended consequences of aerial  fumigation of coca on human capital accumulation and its medium-term socioeconomic impact in Colombia. Employing a spatial regression discontinuity design and utilizing newly digitized data on the exact areas subjected to aerial spraying, we find that eradication increases dropout and failure rates in the short term. A key mechanism is the negative income shock experienced by households. Furthermore, we document that even after the ban on aerial spraying in 2015, villages exposed to eradication exhibit worse socioeconomic outcomes, including lower schooling, higher child labor, increased early marriage, and deteriorating living conditions.</font>
+<p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> Do coercive efforts to dismantle illicit economic activity promote development, or can they inadvertently undermine it? We study this question in the context of Colombia's large-scale aerial eradication of coca crops using glyphosate. We digitize detailed geographic data on sprayed areas and exploit quasi-random variation in exposure to eradication flights to estimate both short- and long-run effects on human capital and socioeconomic outcomes.
+In the short term, we show that aerial eradication increases school dropout, primarily through negative income shocks to affected households. In the longer term, we find that villages previously exposed to spraying exhibit lower educational attainment, higher rates of child labor, increased early marriage, and poorer living conditions, even after the program was suspended. Our findings suggest that when illicit production serves as a subsistence strategy in income-constrained settings, enforcement efforts may generate persistent developmental losses.</font>
 </p> 
 
 
 -----
 <br>
 
-**"Nation-building in post-conflict settings: Evidence from South Africa"**
+**"Nation-Building through Restorative Justice"**
   
 <i><font size="-0.5"> with <a href="https://sites.google.com/view/thomasgautier/home">Thomas Gautier</a> and <a href="https://gianlucarusso.github.io">Gianluca Russo</a>. 
 
-<p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> How do states rebuild nations after a major conflict? Truth and Reconciliation Commissions (TRCs) have emerged as one of the most common interventions to achieve this objective. Despite their popularity, little is known about their efficacy to foster reconciliation and nation building. We fill this gap by studying the seminal TRC established in South Africa after the end of the Apartheid. To measure exposure to TRC across South African municipalities, we leverage quasi-random variation in media coverage of the TRC message. South African municipalities with higher historical exposure to TRC on media have lower levels of violence today. This effect is driven by improved nation building and higher trust towards post-Apartheid institutions. Exploiting daily variation in TRC hearings and mediatic exposure in the short run, we bolster our interpretation that our long-run results are forged in the years of TRC activity. The same evidence suggests that our results are driven by the coverage of TRC on media as opposed to generic media exposure.</font>
+<p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> How do societies rebuild after decades of institutionalized oppression and intergroup violence? We answer this question by studying the South African Truth and Reconciliation Commission (TRC), which sought to rebuild the nation by publicly documenting human rights violations committed under apartheid. 
+Using quasi-exogenous variation in exposure to live TRC broadcasts, we show that the TRC strengthened unity among Black South Africans, reducing interethnic violence and increasing national identification. At the same time, it weakened interracial relations, leading to greater segregation and fewer intermarriages. Content analysis of the hearings reveals that intra-Black reconciliation&mdash;driven by emotional resonance rather than information transmission&mdash;was the key mechanism behind Black unity. Finally, using administrative tax data, we further show that the legacy of the TRC affected public policy by reducing the effectiveness of affirmative action programs aimed at redressing apartheid-era discrimination.</font>
 </p> 
 
   * <font size="-1">Funded by <a href="https://www.wider.unu.edu/project/institutional-legacies-violent-conflict">UNU WIDER</a> and <a href="https://steg.cepr.org">STEG SGR</a>.</font>
