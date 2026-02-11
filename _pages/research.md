@@ -24,7 +24,9 @@ Work in progress
 In the short term, we show that aerial eradication increases school dropout, primarily through negative income shocks to affected households. In the longer term, we find that villages previously exposed to spraying exhibit lower educational attainment, higher rates of child labor, increased early marriage, and poorer living conditions, even after the program was suspended. Our findings suggest that when illicit production serves as a subsistence strategy in income-constrained settings, enforcement efforts may generate persistent developmental losses.</font>
 </p> 
 
+  * <font size="-1">Awarded best paper on Agricultural and Environmental Economics at the Armenian Economic Association Conference.</font>
 
+  
 -----
 <br>
 
