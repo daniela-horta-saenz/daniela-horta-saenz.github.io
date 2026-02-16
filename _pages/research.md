@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-Work in progress
+Working Papers
 -----
 
 <br>
@@ -42,9 +42,9 @@ In the short term, we show that aerial eradication increases school dropout, pri
 
 <br>
 
+
+Work in Progress
 -----
-
-
 
 **"Conflict and Educational Mobility: Evidence from Colombia"**
 
