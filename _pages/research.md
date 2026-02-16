@@ -30,12 +30,12 @@ In the short term, we show that aerial eradication increases school dropout, pri
 -----
 <br>
 
-**"Nation-Building through Restorative Justice"**
+**"Nation-Building through Restorative Justice"** [<font size="-0.5"><a href="https://www.dropbox.com/scl/fi/1yz62klgtymrv7kzrvi2r/TRC_GHR_16feb26.pdf?rlkey=3v28d6oicm7tsrl1hsb6xvf4i&st=o7djc2cr&dl=0">WP</a></font>]
   
 <i><font size="-0.5"> with <a href="https://sites.google.com/view/thomasgautier/home">Thomas Gautier</a> and <a href="https://gianlucarusso.github.io">Gianluca Russo</a>. 
 
-<p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> How do societies rebuild after decades of institutionalized oppression and intergroup violence? We answer this question by studying the South African Truth and Reconciliation Commission (TRC), which sought to rebuild the nation by publicly documenting human rights violations committed under apartheid. 
-Using quasi-exogenous variation in exposure to live TRC broadcasts, we show that the TRC strengthened unity among Black South Africans, reducing interethnic violence and increasing national identification. At the same time, it weakened interracial relations, leading to greater segregation and fewer intermarriages. Content analysis of the hearings reveals that intra-Black reconciliation&mdash;driven by emotional resonance rather than information transmission&mdash;was the key mechanism behind Black unity. Finally, using administrative tax data, we further show that the legacy of the TRC affected public policy by reducing the effectiveness of affirmative action programs aimed at redressing apartheid-era discrimination.</font>
+<p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> How do societies rebuild after decades of institutionalized oppression and intergroup violence? We study the South African Truth and Reconciliation Commission (TRC), which sought to rebuild the nation through public truth-telling about apartheid-era abuses. Using quasi-exogenous variation in exposure to live TRC broadcasts, we show that the TRC strengthened cohesion among Blacks, reducing interethnic violence and increasing national identification. At the same time, it weakened interracial relations, raising segregation and lowering intermarriage. Hearing content suggests these effects reflect intra-Black reconciliation driven by emotional engagement. These divisions had downstream consequences: using administrative tax data, we show they hindered public policy implementation.
+</font>
 </p> 
 
   * <font size="-1">Funded by <a href="https://www.wider.unu.edu/project/institutional-legacies-violent-conflict">UNU WIDER</a> and <a href="https://steg.cepr.org">STEG SGR</a>.</font>
