@@ -18,7 +18,7 @@ Working Papers
 
 **"Supply-Side Drug Enforcement and Economic Development"**
 
-<i><font size="-0.5"> with Anderson Tami-Patiño.</font></i> [<font size="-0.5"><a href="https://www.dropbox.com/scl/fi/ld3j6tuurbzmu930z66ib/Coca_Education_HT_2026.pdf?rlkey=99kl28s8h5pk6pfrodfskp5aw&st=013bxb2j&dl=0">WP</a></font>]
+<i><font size="-0.5"> with Anderson Tami-Patiño.</font></i> [<font size="-0.5"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4694457">WP</a></font>] (Submitted)
 
 <p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> Do coercive efforts to dismantle illicit economic activity promote development, or can they inadvertently undermine it? We study this question in the context of Colombia's large-scale aerial eradication of coca crops using glyphosate. We digitize detailed geographic data on sprayed areas and exploit quasi-random variation in exposure to eradication flights to estimate both short- and long-run effects on human capital and socioeconomic outcomes.
 In the short term, we show that aerial eradication increases school dropout, primarily through negative income shocks to affected households. In the longer term, we find that villages previously exposed to spraying exhibit lower educational attainment, higher rates of child labor, increased early marriage, and poorer living conditions, even after the program was suspended. Our findings suggest that when illicit production serves as a subsistence strategy in income-constrained settings, enforcement efforts may generate persistent developmental losses.</font>
@@ -30,7 +30,7 @@ In the short term, we show that aerial eradication increases school dropout, pri
 -----
 <br>
 
-**"Nation-Building through Restorative Justice"** [<font size="-0.5"><a href="https://www.dropbox.com/scl/fi/1yz62klgtymrv7kzrvi2r/TRC_GHR_16feb26.pdf?rlkey=3v28d6oicm7tsrl1hsb6xvf4i&st=o7djc2cr&dl=0">WP</a></font>]
+**"Nation-Building through Restorative Justice"** [<font size="-0.5"><a href="https://grp.cepr.org/publications/steg-working-paper/nation-building-through-restorative-justice">WP</a></font>] (Submitted)
   
 <i><font size="-0.5"> with <a href="https://sites.google.com/view/thomasgautier/home">Thomas Gautier</a> and <a href="https://gianlucarusso.github.io">Gianluca Russo</a>. 
 
