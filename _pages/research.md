@@ -32,7 +32,7 @@ In the short term, we show that aerial eradication increases school dropout, pri
 
 **"Nation-Building through Restorative Justice"** [<font size="-0.5"><a href="https://grp.cepr.org/publications/steg-working-paper/nation-building-through-restorative-justice">WP</a></font>] (Submitted)
   
-<i><font size="-0.5"> with <a href="https://sites.google.com/view/thomasgautier/home">Thomas Gautier</a> and <a href="https://gianlucarusso.github.io">Gianluca Russo</a>.
+<i><font size="-0.5"> with <a href="https://sites.google.com/view/thomasgautier/home">Thomas Gautier</a> and <a href="https://gianlucarusso.github.io">Gianluca Russo</a>.</i>
 
 <p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> How do societies rebuild after decades of institutionalized oppression and intergroup violence? We study the South African Truth and Reconciliation Commission (TRC), which sought to rebuild the nation through public truth-telling about apartheid-era abuses. Using quasi-exogenous variation in exposure to live TRC broadcasts, we show that the TRC strengthened cohesion among Blacks, reducing interethnic violence and increasing national identification. At the same time, it weakened interracial relations, raising segregation and lowering intermarriage. Hearing content suggests these effects reflect intra-Black reconciliation driven by emotional engagement. These divisions had downstream consequences: using administrative tax data, we show they hindered public policy implementation.
 </font>
