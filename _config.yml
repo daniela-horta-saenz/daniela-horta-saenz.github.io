@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Daniela Horta Saenz"
 title_separator          : "-"
-name                     : &name "Daniela Horta Saenz"
+name                     : &name "Daniela Horta-Saenz"
 description              : &description  "PhD Student at Aix-Marseille School of Economics"
 url                      : https://daniela-horta-saenz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
