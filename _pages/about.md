@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Daniela Horta Saenz"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,16 +8,20 @@ redirect_from:
   - /about.html
 ---
 
+ <img class="img-responsive" style="float: left; margin: 10px 20px 20px 10px; border-radius: 50%; width: 300px; height: 300px; object-fit: cover;"       
+  src="/images/pic_nhh.jpg">   
 
-<img class="img-responsive" style="float: left; margin: 10px 20px 20px 10px;" src="/images/daniela_horta_saenz_pic.png" width="300">
 
-<font size="-0.7">
+
+<h2 style="font-size: 1.953em; color: #000000; font-weight: bold;">Daniela Horta-Saenz</h2>  
+
+
 <p style="text-align: justify">  
 Welcome to my website!
 </p>
   
 <p style="text-align: justify">
-I am a postdoctoral fellow at FAIR Institute at the Norwegian School of Economics (NHH). I obtained my PhD in Economics from Aix-Marseille School of Economics in Novemeber 2024. 
+I am a postdoctoral fellow at FAIR Institute at the Norwegian School of Economics (NHH). I obtained my PhD in Economics from Aix-Marseille School of Economics. 
 </p>
 
 
@@ -31,7 +35,7 @@ You can contact me at <a href = "mailto: daniela.horta-saenz@nhh.no">daniela.hor
 </p>
 
 
-</font>
+
 
 <!--- 
 
