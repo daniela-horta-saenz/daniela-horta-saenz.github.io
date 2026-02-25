@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 30px;">       
-    
-<img class="img-responsive" style="float: left; margin: 10px 20px 20px 0; border-radius: 50%; width: 300px; height: 300px; object-fit: cover;"       
-  src="/images/pic_nhh.jpg">   
+<div style="display: flex; align-items: flex-start; gap: 30px; flex-wrap: wrap;">
 
-<div>
+<img style="border-radius: 50%; width: 280px; height: 280px; object-fit: cover; flex-shrink: 0;" src="/images/pic_nhh.jpg">
+
+
+<div style="flex: 1; min-width: 200px;">
 <h2 style="font-size: 1.4em; color: #000000; font-weight: bold; margin-bottom: 0.5em;">Daniela Horta-Saenz</h2>
 
 <p style="text-align: justify"> Welcome to my website!</p>
