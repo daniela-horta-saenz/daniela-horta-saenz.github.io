@@ -13,7 +13,7 @@ redirect_from:
 
 
 
-<h2 style="font-size:-2; color: #000000; font-weight: bold;margin-bottom: 0.5em;">Daniela Horta-Saenz</h2>  
+<h2 style="font-size:1.4em; color: #000000; font-weight: bold;margin-bottom: 0.5em;">Daniela Horta-Saenz</h2>  
 
 
 
