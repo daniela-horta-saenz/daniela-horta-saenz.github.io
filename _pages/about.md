@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
- <img class="img-responsive" style="float: left; margin: 10px 20px 20px 0; border-radius: 50%; width: 300px; height: 300px; object-fit: cover;"       
+<div style="display: flex; align-items: flex-start; gap: 30px;">       
+    
+<img class="img-responsive" style="float: left; margin: 10px 20px 20px 0; border-radius: 50%; width: 300px; height: 300px; object-fit: cover;"       
   src="/images/pic_nhh.jpg">   
 
-
+<div>
 <h2 style="font-size: 1.4em; color: #000000; font-weight: bold; margin-bottom: 0.5em;">Daniela Horta-Saenz</h2>
 
 <p style="text-align: justify"> Welcome to my website!</p>
@@ -22,6 +24,9 @@ redirect_from:
 
 <p style="text-align: justify"> You can contact me at: <a href="mailto:daniela.horta-saenz@nhh.no">daniela.horta-saenz@nhh.no.</a></p>
 
+</div>
+
+</div>
 
 
 <!--- 
