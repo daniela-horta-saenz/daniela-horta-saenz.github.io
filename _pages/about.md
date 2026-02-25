@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
- <img class="img-responsive" style="float: left; margin: 10px 20px 20px -20px; border-radius: 50%; width: 300px; height: 300px; object-fit: cover;"       
+ <img class="img-responsive" style="float: left; margin: 10px 20px 20px -40px; border-radius: 50%; width: 300px; height: 300px; object-fit: cover;"       
   src="/images/pic_nhh.jpg">   
 
 
 
-<h2 style="font-size:-3; color: #000000; font-weight: bold;">Daniela Horta-Saenz</h2>  
+<h2 style="font-size:-2; color: #000000; font-weight: bold;margin-bottom: 0.5em;">Daniela Horta-Saenz</h2>  
+
 
 
 <p style="text-align: justify">  
