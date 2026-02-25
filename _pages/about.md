@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
- <img class="img-responsive" style="float: left; margin: 10px 20px 20px -10px; border-radius: 50%; width: 300px; height: 300px; object-fit: cover;"       
+ <img class="img-responsive" style="float: left; margin: 10px 20px 20px -20px; border-radius: 50%; width: 300px; height: 300px; object-fit: cover;"       
   src="/images/pic_nhh.jpg">   
 
 
 
-<h2 style="font-size:-4; color: #000000; font-weight: bold;">Daniela Horta-Saenz</h2>  
+<h2 style="font-size:-3; color: #000000; font-weight: bold;">Daniela Horta-Saenz</h2>  
 
 
 <p style="text-align: justify">  
@@ -31,7 +31,7 @@ My research interests lie at the intersection of <b> development economics</b>, 
 </p>
 
 <p style="text-align: justify">  
-You can contact me at <a href = "mailto: daniela.horta-saenz@nhh.no">daniela.horta-saenz@nhh.no.</a> 
+You can contact me at:  <a href = "mailto: daniela.horta-saenz@nhh.no">daniela.horta-saenz@nhh.no.</a> 
 </p>
 
 
