@@ -50,7 +50,11 @@
   &--lg {
     padding-right: 2em;
     font-weight: 700;
-    font-size: $type-size-4;
-    color: #000000;  
+    font-size: $type-size-5;
+    color: #000000; 
+
+   @include breakpoint($large) {
+   font-size: $type-size-3;      
+    } 
   }
 }
