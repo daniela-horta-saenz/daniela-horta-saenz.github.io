@@ -42,17 +42,24 @@ In the short term, we show that aerial eradication increases school dropout, pri
 
 <br>
 
+-----
+
+**"Conflict, Education, and Intergenerational Mobility: Evidence from Colombia"** [<font size="-0.5"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6302118">WP</a></font>] (Submitted)
+
+<p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> This paper examines how armed conflict shapes educational attainment across socioeconomic backgrounds and its implications for intergenerational mobility. Using data from Colombia and an instrumental variable strategy that exploits variation in U.S. military assistance interacted with proximity to military bases, I document that conflict reduces educational attainment disproportionately among individuals from more educated families——a pattern that reflects a weakening in the intergenerational persistence of educational advantage. This weakening translates into changes in mobility: conflict increases the likelihood of downward mobility and reduces upward mobility, particularly among individuals from more educated families. Suggestive evidence points to a demand-side channel operating through educational aspirations. These findings indicate that conflict weakens the intergenerational transmission of educational advantage——not by lifting outcomes at the bottom, but by eroding them at the top. </font>
+</p> 
+ 
+
+<br>
 
 Work in Progress
 -----
 
-**"Conflict and Educational Mobility: Evidence from Colombia"**
+**"Conflict, Education, and Intergenerational Mobility: Evidence from Colombia"** [<font size="-0.5"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6302118">WP</a></font>] (Submitted)
 
-<p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> Does conflict impact socioeconomic mobility? This paper examines the extent to which individuals’ exposure to conflict affects intergenerational mobility in education attainment in Colombia. Exploiting exogenous variation in conflict intensity caused by the distance to the nearest military base and US military assistance. I find that the armed conflict reduces the transmission of parents’ educational outcomes on children’s outcomes. An effect driven by the breakdown in transmission in highly educated families. This disruption occurs mainly due to conflict exposure in early childhood and exposure to conflict-related displacement and sexual violence. Notably, weakening the parent-child link is translated into a general increase in downward mobility and a decrease in upward mobility. Destruction of educational resources and a decrease in children’s aspirations are the likely mechanisms for the observed effect.</font>
+<p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> This paper examines how armed conflict shapes educational attainment across socioeconomic backgrounds and its implications for intergenerational mobility. Using data from Colombia and an instrumental variable strategy that exploits variation in U.S. military assistance interacted with proximity to military bases, I document that conflict reduces educational attainment disproportionately among individuals from more educated families——a pattern that reflects a weakening in the intergenerational persistence of educational advantage. This weakening translates into changes in mobility: conflict increases the likelihood of downward mobility and reduces upward mobility, particularly among individuals from more educated families. Suggestive evidence points to a demand-side channel operating through educational aspirations. These findings indicate that conflict weakens the intergenerational transmission of educational advantage——not by lifting outcomes at the bottom, but by eroding them at the top. </font>
 </p> 
  
-  * <font size="-1">Working paper upon request.</font>
-
 
 <br>
 
