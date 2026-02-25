@@ -55,16 +55,6 @@ In the short term, we show that aerial eradication increases school dropout, pri
 Work in Progress
 -----
 
-**"Conflict, Education, and Intergenerational Mobility: Evidence from Colombia"** [<font size="-0.5"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6302118">WP</a></font>] (Submitted)
-
-<p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> This paper examines how armed conflict shapes educational attainment across socioeconomic backgrounds and its implications for intergenerational mobility. Using data from Colombia and an instrumental variable strategy that exploits variation in U.S. military assistance interacted with proximity to military bases, I document that conflict reduces educational attainment disproportionately among individuals from more educated families——a pattern that reflects a weakening in the intergenerational persistence of educational advantage. This weakening translates into changes in mobility: conflict increases the likelihood of downward mobility and reduces upward mobility, particularly among individuals from more educated families. Suggestive evidence points to a demand-side channel operating through educational aspirations. These findings indicate that conflict weakens the intergenerational transmission of educational advantage——not by lifting outcomes at the bottom, but by eroding them at the top. </font>
-</p> 
- 
-
-<br>
-
------
-
 
 **"Sexual Violence in South Africa: Institutional and Grassroots Solutions"**
   
