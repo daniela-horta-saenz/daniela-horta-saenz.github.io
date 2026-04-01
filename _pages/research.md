@@ -20,15 +20,12 @@ Working Papers
   
 <i><font size="-0.5"> with <a href="https://sites.google.com/view/thomasgautier/home">Thomas Gautier</a> and <a href="https://gianlucarusso.github.io">Gianluca Russo</a>.</font></i> 
 
-
-
 <details>
 <summary><font size="-0.8"><strong>Abstract</strong></font></summary>
 <p style="text-align: justify"> <font size="-1"> How do societies rebuild after decades of institutionalized oppression and intergroup violence? We study the South African Truth and Reconciliation Commission (TRC), which sought to rebuild the nation through public truth-telling about apartheid-era abuses. Using quasi-exogenous variation in exposure to live TRC broadcasts, we show that the TRC strengthened cohesion among Blacks, reducing interethnic violence and increasing national identification. At the same time, it weakened interracial relations, raising segregation and lowering intermarriage. Hearing content suggests these effects reflect intra-Black reconciliation driven by emotional engagement. These divisions had downstream consequences: using administrative tax data, we show they hindered public policy implementation. </font></p>
 </details>
 
   * <font size="-1">Funded by <a href="https://www.wider.unu.edu/project/institutional-legacies-violent-conflict">UNU WIDER</a> and <a href="https://steg.cepr.org">STEG SGR</a>.</font>
-
 
 -----
 
@@ -44,7 +41,6 @@ In the short term, we show that aerial eradication increases school dropout, pri
 
   * <font size="-1">Awarded best paper on Agricultural and Environmental Economics at the Armenian Economic Association Conference.</font>
 
-  
 -----
 **Conflict, Education, and Intergenerational Mobility: Evidence from Colombia** [<font size="-0.5"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6302118">WP</a></font>] (Submitted)
 
@@ -53,9 +49,10 @@ In the short term, we show that aerial eradication increases school dropout, pri
 <p style="text-align: justify"> <font size="-1"> This paper examines how armed conflict shapes educational attainment across socioeconomic backgrounds and its implications for intergenerational mobility. Using data from Colombia and an instrumental variable strategy that exploits variation in U.S. military assistance interacted with proximity to military bases, I document that conflict reduces educational attainment disproportionately among individuals from more educated families—a pattern that reflects a weakening in the intergenerational persistence of educational advantage. This weakening translates into changes in mobility: conflict increases the likelihood of downward mobility and reduces upward mobility, particularly among individuals from more educated families. Suggestive evidence points to a demand-side channel operating through educational aspirations. These findings indicate that conflict weakens the intergenerational transmission of educational advantage—not by lifting outcomes at the bottom, but by eroding them at the top. </font></p>
 </details>
 
-
------
 <br>
+-----
+
+
 
 Work in Progress
 -----
