@@ -42,6 +42,7 @@ In the short term, we show that aerial eradication increases school dropout, pri
   * <font size="-1">Awarded best paper on Agricultural and Environmental Economics at the Armenian Economic Association Conference.</font>
 
 -----
+
 **Conflict, Education, and Intergenerational Mobility: Evidence from Colombia** [<font size="-0.5"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6302118">WP</a></font>] (Submitted)
 
 <details>
@@ -50,7 +51,7 @@ In the short term, we show that aerial eradication increases school dropout, pri
 </details>
 
 <br>
------
+
 
 
 
