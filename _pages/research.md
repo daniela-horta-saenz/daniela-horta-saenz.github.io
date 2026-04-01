@@ -29,7 +29,6 @@ Working Papers
 
   * <font size="-1">Funded by <a href="https://www.wider.unu.edu/project/institutional-legacies-violent-conflict">UNU WIDER</a> and <a href="https://steg.cepr.org">STEG SGR</a>.</font>
 
-<br>
 
 -----
 
@@ -54,6 +53,8 @@ In the short term, we show that aerial eradication increases school dropout, pri
 <p style="text-align: justify"> <font size="-1"> This paper examines how armed conflict shapes educational attainment across socioeconomic backgrounds and its implications for intergenerational mobility. Using data from Colombia and an instrumental variable strategy that exploits variation in U.S. military assistance interacted with proximity to military bases, I document that conflict reduces educational attainment disproportionately among individuals from more educated families—a pattern that reflects a weakening in the intergenerational persistence of educational advantage. This weakening translates into changes in mobility: conflict increases the likelihood of downward mobility and reduces upward mobility, particularly among individuals from more educated families. Suggestive evidence points to a demand-side channel operating through educational aspirations. These findings indicate that conflict weakens the intergenerational transmission of educational advantage—not by lifting outcomes at the bottom, but by eroding them at the top. </font></p>
 </details>
 
+
+-----
 <br>
 
 Work in Progress
