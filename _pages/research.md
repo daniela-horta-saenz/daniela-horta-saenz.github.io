@@ -16,27 +16,16 @@ Working Papers
 
 <br>
 
-**"Supply-Side Drug Enforcement and Economic Development"** [<font size="-0.5"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4694457">WP</a></font>] (Submitted)
-
-<i><font size="-0.5"> with Anderson Tami-Patiño.</font></i> 
-
-<p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> Do coercive efforts to dismantle illicit economic activity promote development, or can they inadvertently undermine it? We study this question in the context of Colombia's large-scale aerial eradication of coca crops using glyphosate. We digitize detailed geographic data on sprayed areas and exploit quasi-random variation in exposure to eradication flights to estimate both short- and long-run effects on human capital and socioeconomic outcomes.
-In the short term, we show that aerial eradication increases school dropout, primarily through negative income shocks to affected households. In the longer term, we find that villages previously exposed to spraying exhibit lower educational attainment, higher rates of child labor, increased early marriage, and poorer living conditions, even after the program was suspended. Our findings suggest that when illicit production serves as a subsistence strategy in income-constrained settings, enforcement efforts may generate persistent developmental losses.</font>
-</p> 
-
-  * <font size="-1">Awarded best paper on Agricultural and Environmental Economics at the Armenian Economic Association Conference.</font>
-
-  
------
-<br>
-
 **"Nation-Building through Restorative Justice"** [<font size="-0.5"><a href="https://grp.cepr.org/publications/steg-working-paper/nation-building-through-restorative-justice">WP</a></font>] (Submitted)
   
 <i><font size="-0.5"> with <a href="https://sites.google.com/view/thomasgautier/home">Thomas Gautier</a> and <a href="https://gianlucarusso.github.io">Gianluca Russo</a>.</font></i> 
 
-<p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> How do societies rebuild after decades of institutionalized oppression and intergroup violence? We study the South African Truth and Reconciliation Commission (TRC), which sought to rebuild the nation through public truth-telling about apartheid-era abuses. Using quasi-exogenous variation in exposure to live TRC broadcasts, we show that the TRC strengthened cohesion among Blacks, reducing interethnic violence and increasing national identification. At the same time, it weakened interracial relations, raising segregation and lowering intermarriage. Hearing content suggests these effects reflect intra-Black reconciliation driven by emotional engagement. These divisions had downstream consequences: using administrative tax data, we show they hindered public policy implementation.
-</font>
-</p> 
+
+
+<details>
+<summary><font size="-0.5"><strong>Abstract</strong></font></summary>
+<p style="text-align: justify"> <font size="-1"> How do societies rebuild after decades of institutionalized oppression and intergroup violence? We study the South African Truth and Reconciliation Commission (TRC), which sought to rebuild the nation through public truth-telling about apartheid-era abuses. Using quasi-exogenous variation in exposure to live TRC broadcasts, we show that the TRC strengthened cohesion among Blacks, reducing interethnic violence and increasing national identification. At the same time, it weakened interracial relations, raising segregation and lowering intermarriage. Hearing content suggests these effects reflect intra-Black reconciliation driven by emotional engagement. These divisions had downstream consequences: using administrative tax data, we show they hindered public policy implementation. </font></p>
+</details>
 
   * <font size="-1">Funded by <a href="https://www.wider.unu.edu/project/institutional-legacies-violent-conflict">UNU WIDER</a> and <a href="https://steg.cepr.org">STEG SGR</a>.</font>
 
@@ -44,11 +33,26 @@ In the short term, we show that aerial eradication increases school dropout, pri
 
 -----
 
+**"Supply-Side Drug Enforcement and Economic Development"** [<font size="-0.5"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4694457">WP</a></font>] (Submitted)
+
+<i><font size="-0.5"> with Anderson Tami-Patiño.</font></i> 
+
+<details>
+<summary><font size="-0.5"><strong>Abstract</strong></font></summary>
+<p style="text-align: justify"> <font size="-1"> Do coercive efforts to dismantle illicit economic activity promote development, or can they inadvertently undermine it? We study this question in the context of Colombia's large-scale aerial eradication of coca crops using glyphosate. We digitize detailed geographic data on sprayed areas and exploit quasi-random variation in exposure to eradication flights to estimate both short- and long-run effects on human capital and socioeconomic outcomes.
+In the short term, we show that aerial eradication increases school dropout, primarily through negative income shocks to affected households. In the longer term, we find that villages previously exposed to spraying exhibit lower educational attainment, higher rates of child labor, increased early marriage, and poorer living conditions, even after the program was suspended. Our findings suggest that when illicit production serves as a subsistence strategy in income-constrained settings, enforcement efforts may generate persistent developmental losses. </font></p>
+</details>
+
+  * <font size="-1">Awarded best paper on Agricultural and Environmental Economics at the Armenian Economic Association Conference.</font>
+
+  
+-----
 **"Conflict, Education, and Intergenerational Mobility: Evidence from Colombia"** [<font size="-0.5"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6302118">WP</a></font>] (Submitted)
 
-<p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> This paper examines how armed conflict shapes educational attainment across socioeconomic backgrounds and its implications for intergenerational mobility. Using data from Colombia and an instrumental variable strategy that exploits variation in U.S. military assistance interacted with proximity to military bases, I document that conflict reduces educational attainment disproportionately among individuals from more educated families—a pattern that reflects a weakening in the intergenerational persistence of educational advantage. This weakening translates into changes in mobility: conflict increases the likelihood of downward mobility and reduces upward mobility, particularly among individuals from more educated families. Suggestive evidence points to a demand-side channel operating through educational aspirations. These findings indicate that conflict weakens the intergenerational transmission of educational advantage—not by lifting outcomes at the bottom, but by eroding them at the top. </font>
-</p> 
- 
+<details>
+<summary><font size="-0.5"><strong>Abstract</strong></font></summary>
+<p style="text-align: justify"> <font size="-1"> This paper examines how armed conflict shapes educational attainment across socioeconomic backgrounds and its implications for intergenerational mobility. Using data from Colombia and an instrumental variable strategy that exploits variation in U.S. military assistance interacted with proximity to military bases, I document that conflict reduces educational attainment disproportionately among individuals from more educated families—a pattern that reflects a weakening in the intergenerational persistence of educational advantage. This weakening translates into changes in mobility: conflict increases the likelihood of downward mobility and reduces upward mobility, particularly among individuals from more educated families. Suggestive evidence points to a demand-side channel operating through educational aspirations. These findings indicate that conflict weakens the intergenerational transmission of educational advantage—not by lifting outcomes at the bottom, but by eroding them at the top. </font></p>
+</details>
 
 <br>
 
@@ -58,7 +62,7 @@ Work in Progress
 
 **"Sexual Violence in South Africa: Institutional and Grassroots Solutions"**
   
-<i><font size="-0.5"> with <a href="https://smriti-ganapathi.github.io">Smriti Ganapathi</a>. [Exploratory Field Work Done] </font></i>
+<i><font size="-0.5"> with <a href="https://smriti-ganapathi.github.io">Smriti Ganapathi</a>. [Draft in preparation] </font></i>
 
   * <font size="-1">Funded by the BFI University of Chicago.</font>
 
