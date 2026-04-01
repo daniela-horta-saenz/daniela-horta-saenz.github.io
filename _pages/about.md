@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Daniela Horta Saenz"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,30 +8,26 @@ redirect_from:
   - /about.html
 ---
 
+<div style="display: flex; align-items: flex-start; gap: 30px; flex-wrap: wrap;">
 
-<img class="img-responsive" style="float: left; margin: 10px 20px 20px 10px;" src="/images/daniela_horta_saenz_pic.png" width="300">
-
-<font size="-0.7">
-<p style="text-align: justify">  
-Welcome to my website!
-</p>
-  
-<p style="text-align: justify">
-I am a postdoctoral fellow at FAIR Institute at the Norwegian School of Economics (NHH). I obtained my PhD in Economics from Aix-Marseille School of Economics in Novemeber 2024. 
-</p>
+<img style="border-radius: 50%; width: 280px; height: 280px; object-fit: cover; flex-shrink: 0;" src="/images/pic_nhh.jpg">
 
 
-<p style="text-align: justify">
-  
-My research interests lie at the intersection of <b> development economics</b>, <b> political economy</b>, and <b> conflict</b>, with a primary focus on South Africa and Colombia. My current research projects examine the legacy of conflict and conflict resolution policies on nation-building and human capital accumulation. I am also keen on studying the cultural and institutional factors that reinforce sexual and gender-based violence in fragile states.
-</p>
+<div style="flex: 1; min-width: 200px;">
+<h2 style="font-size: 1.4em; color: #000000; font-weight: bold; margin-bottom: 0.5em;">Daniela Horta-Saenz</h2>
 
-<p style="text-align: justify">  
-You can contact me at <a href = "mailto: daniela.horta-saenz@nhh.no">daniela.horta-saenz@nhh.no.</a> 
-</p>
+<p style="text-align: justify"> Welcome to my website!</p>
 
+<p style="text-align: justify"> I am a postdoctoral fellow at FAIR Institute at the Norwegian School of Economics (NHH). I obtained my PhD in Economics from Aix-Marseille School of Economics.</p>
 
-</font>
+<p style="text-align: justify"> My research interests lie at the intersection of development economics, political economy, and conflict, with a primary focus on South Africa and Colombia. My current research projects examine the legacy of conflict and conflict resolution policies on nation-building and human capital accumulation. I am also keen on studying the cultural and institutional factors that reinforce sexual and gender-based violence in fragile states.</p>
+
+<p style="text-align: justify"> You can contact me at: <a href="mailto:daniela.horta-saenz@nhh.no">daniela.horta-saenz@nhh.no.</a></p>
+
+</div>
+
+</div>
+
 
 <!--- 
 
