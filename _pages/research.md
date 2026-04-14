@@ -62,7 +62,7 @@ Work in Progress
 
 **Sexual Violence in South Africa: Institutional and Grassroots Solutions**
   
-<i><font size="-1"> with <a href="https://smriti-ganapathi.github.io">Smriti Ganapathi</a>. [Draft in preparation] </font></i>
+<i><font size="-0.5"> with <a href="https://smriti-ganapathi.github.io">Smriti Ganapathi</a>. [Draft in preparation] </font></i>
 
   * <font size="-1">Funded by the BFI University of Chicago.</font>
 
