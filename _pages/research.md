@@ -25,8 +25,8 @@ Working Papers
 <p style="text-align: justify"> <font size="-1"> How do societies rebuild after decades of institutionalized oppression and intergroup violence? We study the South African Truth and Reconciliation Commission (TRC), which sought to rebuild the nation through public truth-telling about apartheid-era abuses. Using quasi-exogenous variation in exposure to live TRC broadcasts, we show that the TRC strengthened cohesion among Blacks, reducing interethnic violence and increasing national identification. At the same time, it weakened interracial relations, raising segregation and lowering intermarriage. Hearing content suggests these effects reflect intra-Black reconciliation driven by emotional engagement. These divisions had downstream consequences: using administrative tax data, we show they hindered public policy implementation. </font></p>
 </details>
 
-  * <font size="-1">Funded by <a href="https://www.wider.unu.edu/project/institutional-legacies-violent-conflict">UNU WIDER</a> and <a href="https://steg.cepr.org">STEG SGR</a>.</font>
   * <font size="-1"> Coverage: <a href="https://grp.cepr.org/publications/steg-policy-brief/together-yet-apart-lessons-south-africas-truth-commission">CEPR-STEG Policy Brief</a>. </font> 
+  * <font size="-1">Funded by <a href="https://www.wider.unu.edu/project/institutional-legacies-violent-conflict">UNU WIDER</a> and <a href="https://steg.cepr.org">STEG SGR</a>.</font>
 
 -----
 
