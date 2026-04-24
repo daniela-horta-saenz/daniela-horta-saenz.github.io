@@ -30,7 +30,7 @@ Working Papers
 
 -----
 
-**Supply-Side Drug Enforcement and Economic Development** [<font size="-0.5"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4694457">WP</a></font>] (Submitted)
+**Supply-Side Drug Enforcement and Economic Development** [<font size="-0.5"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6635060">WP</a></font>] (Submitted)
 
 <i><font size="-0.5"> with Anderson Tami-Patiño.</font></i> 
 
