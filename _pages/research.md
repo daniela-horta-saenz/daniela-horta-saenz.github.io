@@ -30,7 +30,7 @@ Working Papers
 
 -----
 
-**Supply-Side Drug Enforcement and Economic Development** [<font size="-0.5"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6635060">WP</a></font>] (Submitted)
+**Supply-Side Drug Enforcement and Economic Development** [<font size="-0.5"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6635060">WP</a></font>] 
 
 <i><font size="-0.5"> with Anderson Tami-Patiño.</font></i> 
 
@@ -45,7 +45,7 @@ In the short term, we show that aerial eradication increases school dropout, pri
 
 -----
 
-**Conflict, Education, and Intergenerational Mobility: Evidence from Colombia** [<font size="-0.5"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6302118">WP</a></font>] (Submitted)
+**Conflict, Education, and Intergenerational Mobility: Evidence from Colombia** [<font size="-0.5"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6302118">WP</a></font>] 
 
 <details>
 <summary><font size="-1"><strong>Abstract</strong></font></summary>
