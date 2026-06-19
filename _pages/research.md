@@ -16,7 +16,9 @@ Working Papers
 
 <br>
 
-**Nation-Building through Restorative Justice** [<font size="-0.5"><a href="https://grp.cepr.org/publications/steg-working-paper/nation-building-through-restorative-justice">WP</a></font>] (Submitted)
+**Nation-Building through Restorative Justice** [<font size="-0.5"><a href="https://grp.cepr.org/publications/steg-working-paper/nation-building-through-restorative-justice">WP</a></font>] 
+
+Reject and Resubmit at <i><font size="-0.5"> American Economic Review.</font></i>  
   
 <i><font size="-0.5"> with <a href="https://sites.google.com/view/thomasgautier/home">Thomas Gautier</a> and <a href="https://gianlucarusso.github.io">Gianluca Russo</a>.</font></i> 
 
