@@ -18,23 +18,23 @@ Working Papers
 
 **Nation-Building through Restorative Justice** [<font size="-0.5"><a href="https://grp.cepr.org/publications/steg-working-paper/nation-building-through-restorative-justice">WP</a></font>] 
 
-Reject and Resubmit at <i><font size="-0.5"> American Economic Review.</font></i>  
+Reject and Resubmit at the <i><font size="-0.5"> American Economic Review.</font></i>  
   
-<i><font size="-0.5"> with <a href="https://sites.google.com/view/thomasgautier/home">Thomas Gautier</a> and <a href="https://gianlucarusso.github.io">Gianluca Russo</a>.</font></i> 
+<font size="-0.5"> with Thomas Gautier and Gianluca Russo.</font> 
 
 <details>
 <summary><font size="-1"><strong>Abstract</strong></font></summary>
 <p style="text-align: justify"> <font size="-1"> How do societies rebuild after decades of institutionalized oppression and intergroup violence? We study the South African Truth and Reconciliation Commission (TRC), which sought to rebuild the nation through public truth-telling about apartheid-era abuses. Using quasi-exogenous variation in exposure to live TRC broadcasts, we show that the TRC strengthened cohesion among Blacks, reducing interethnic violence and increasing national identification. At the same time, it weakened interracial relations, raising segregation and lowering intermarriage. Hearing content suggests these effects reflect intra-Black reconciliation driven by emotional engagement. These divisions had downstream consequences: using administrative tax data, we show they hindered public policy implementation. </font></p>
 </details>
 
-  * <font size="-1"> Coverage: <a href="https://grp.cepr.org/publications/steg-policy-brief/together-yet-apart-lessons-south-africas-truth-commission">CEPR-STEG Policy Brief</a>. </font> 
+  * <font size="-1"> Coverage: <a href="https://grp.cepr.org/publications/steg-policy-brief/together-yet-apart-lessons-south-africas-truth-commission">CEPR-STEG Policy Brief</a>, </font> <a href="https://voxdev.org/topic/institutions-political-economy/how-south-africas-truth-and-reconciliation-commission-reshaped">VoxDev</a>. </font>
   * <font size="-1">Funded by <a href="https://www.wider.unu.edu/project/institutional-legacies-violent-conflict">UNU WIDER</a> and <a href="https://steg.cepr.org">STEG SGR</a>.</font>
 
 -----
 
 **Supply-Side Drug Enforcement and Economic Development** [<font size="-0.5"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6635060">WP</a></font>] 
 
-<i><font size="-0.5"> with Anderson Tami-Patiño.</font></i> 
+<font size="-0.5"> with Anderson Tami-Patiño.</font> 
 
 <details>
 <summary><font size="-1"><strong>Abstract</strong></font></summary>
@@ -65,7 +65,7 @@ Work in Progress
 
 **Sexual Violence in South Africa: Institutional and Grassroots Solutions**
   
-<i><font size="-0.5"> with <a href="https://smriti-ganapathi.github.io">Smriti Ganapathi</a>. [Draft in preparation] </font></i>
+<font size="-0.5"> with Smriti Ganapathi. [Draft in preparation] </font>
 
   * <font size="-1">Funded by the BFI University of Chicago.</font>
 
@@ -76,7 +76,7 @@ Publications
 
   **Exposure to worrisome topics can increase cognitive performance when incentivized by a performance goal**                                                                                                                         
                                                                                                                                                           
-  <i><font size="-0.5"> with <a href="https://sites.google.com/site/timotheedemont/home">Timothée Demont</a> and <a href="https://sites.google.com/view/evaraiber/home">Eva Raiber</a></font></i>. [<font size="-0.5"><a href="https://www.nature.com/articles/s41598-023-50036-0"> Scientific Reports </a> </font>] [<font size="-0.5"><a href="https://amu.hal.science/hal-03953178">WP</a></font>]
+ <font size="-0.5"> with Timothée Demont and Eva Raiber </font>. [<font size="-0.5"><a href="https://www.nature.com/articles/s41598-023-50036-0"> Scientific Reports </a> </font>] [<font size="-0.5"><a href="https://amu.hal.science/hal-03953178">WP</a></font>]
 
   <details>
   <summary><font size="-1"><strong>Abstract</strong></font></summary>
