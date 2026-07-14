@@ -76,7 +76,7 @@ Publications
 
   **Exposure to worrisome topics can increase cognitive performance when incentivized by a performance goal**                                                                                                                         
                                                                                                                                                           
- <font size="-0.5"> with Timothée Demont and Eva Raiber </font>. [<font size="-0.5"><a href="https://www.nature.com/articles/s41598-023-50036-0"> Scientific Reports </a> </font>] [<font size="-0.5"><a href="https://amu.hal.science/hal-03953178">WP</a></font>]
+ <font size="-0.5"> with Timothée Demont and Eva Raiber. </font>[<font size="-0.5"><a href="https://www.nature.com/articles/s41598-023-50036-0"> Scientific Reports </a> </font>] [<font size="-0.5"><a href="https://amu.hal.science/hal-03953178">WP</a></font>]
 
   <details>
   <summary><font size="-1"><strong>Abstract</strong></font></summary>
